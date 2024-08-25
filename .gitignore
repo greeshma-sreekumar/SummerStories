@@ -1,0 +1,15 @@
+## Ignore build output directories
+bin/
+obj/
+
+## Ignore Visual Studio Code directories
+.vscode/
+
+## Ignore project-related logs and reports
+*.log
+*.nlog
+*.trace
+*.tlg
+
+wwwroot/lib/
+node_modules/
